@@ -33,3 +33,12 @@ conda deactivate
 - [Initial Tutorial](https://www.relataly.com/content-based-movie-recommender-using-python/4294/)
 - [Second Tutorial](https://www.relataly.com/building-a-movie-recommender-using-collaborative-filtering/4376/)
 - [PCA](https://builtin.com/machine-learning/pca-in-python)
+
+
+# Write-up sequence
+- Literature Review
+- Research methodology
+- Discussion of Results
+- Conclusion
+- Introduction
+- Abstract
